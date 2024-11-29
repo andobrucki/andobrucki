@@ -4,7 +4,7 @@ Hello, I am @andobrucki.
 
 I have recently completed my training as a Full Stack Web Developer at DCI Digital Career Institute, where I specialized in creating visually appealing, user-friendly, and vibrant websites. I am passionate about designing digital solutions that are both functional and aesthetically engaging.
 
-During my course, I gained hands-on experience with various web technologies and applied them to practical projects, enabling me to develop dynamic and intuitive applications. This experience has provided me with a strong foundation in modern development tools and frameworks. 
+During my course, I gained hands-on experience with various web technologies and applied them to practical projects, enabling me to develop dynamic and intuitive applications.
 
 
 ## Skills
